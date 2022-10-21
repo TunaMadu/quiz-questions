@@ -1,29 +1,16 @@
 {
-  "questions":[
-  
-    {},
-    {},
-    {},
-    {},    
-    {},
-    {},    
-    {},
-    {},    
-    {},
-    {},   
-    {},
-    {},    
-    {},
-    {},   
-    {},
-    {},    
-    {},
-    {},    
-    {},
-    {},   
-  
-  
+  "questions": [
+    {
+      "question type": "TF",
+      "question": "The shift() in javascript removes the first element in the array?",
+      "answers": ["true", "false"],
+      "answer": "true"
+    },
+    {
+      "question type": "MC",
+      "question": "Python is a:",
+      "answers": ["programming language", "Snake", "Dish"],
+      "answer": "programming language"
+    }
   ]
-  
-  
 }
