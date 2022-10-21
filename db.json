@@ -1,16 +1,18 @@
 {
-  "questions": [
-    {
-      "question type": "TF",
-      "question": "The shift() in javascript removes the first element in the array?",
-      "answers": ["true", "false"],
-      "answer": "true"
-    },
+  "mc-questions": [
     {
       "question type": "MC",
       "question": "Python is a:",
       "answers": ["programming language", "Snake", "Dish"],
       "answer": "programming language"
+    }
+  ],
+  "tf-questions": [
+    {
+      "question type": "TF",
+      "question": "The shift() in javascript removes the first element in the array?",
+      "answers": ["true", "false"],
+      "answer": "true"
     }
   ]
 }
