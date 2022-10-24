@@ -78,8 +78,52 @@
   ],
   "tf-questions": [
     {
-      "question type": "TF",
-      "question": "The shift() in javascript removes the first element in the array?",
+      "question": "The shift() in javascript removes the first element in the array",
+      "answers": ["true", "false"],
+      "answer": "true"
+    },
+    {
+      "question": "The pop() in javascript removes the first element in the array",
+      "answers": ["true", "false"],
+      "answer": "false"
+    },
+    {
+      "question": "The push() in javascript adds elements to the end of an array",
+      "answers": ["true", "false"],
+      "answer": "true"
+    },
+    {
+      "question": "THe unshift() in javascript adds the element to the begining of the list",
+      "answers": ["true", "false"],
+      "answer": "true"
+    },
+    {
+      "question": "You get an error when accessing a out of bound index in javascript",
+      "answers": ["true", "false"],
+      "answer": "false"
+    },
+    {
+      "question": "== is equivalent to ===",
+      "answers": ["true", "false"],
+      "answer": "false"
+    },
+    {
+      "question": "The value of a variable declared const can change its value",
+      "answers": ["true", "false"],
+      "answer": "false"
+    },
+    {
+      "question": "You can't have classes in javascript",
+      "answers": ["true", "false"],
+      "answer": "false"
+    },
+    {
+      "question": "Event listeners listen for a action only once",
+      "answers": ["true", "false"],
+      "answer": "false"
+    },
+    {
+      "question": "DRY stands for 'do not repeat yourself'",
       "answers": ["true", "false"],
       "answer": "true"
     }
