@@ -1,10 +1,79 @@
 {
   "mc-questions": [
     {
-      "question type": "MC",
       "question": "Python is a:",
-      "answers": ["programming language", "Snake", "Dish"],
+      "answers": ["Programming language", "Snake", "Dish", "Band"],
+      "answer": "Programming language"
+    },
+    {
+      "question": "What is a data structure?",
+      "answers": [
+        "A method",
+        "A way to store/organize data",
+        "An algorithmn",
+        "A way to predict the future"
+      ],
+      "answer": "A way to store/organize data"
+    },
+    {
+      "question": "What is the short hand hexadecimal for this hexadecimal color: #FFFFFF",
+      "answers": ["#F", "FF", "FFF", "None of the above"],
+      "answer": "#FFF"
+    },
+    {
+      "question": "What is the original hexadecimal for this shorthand hexadecimal color: #C6C",
+      "answers": ["#CC66CC", "#CC6C", "#CCC", "None of the above"],
+      "answer": "#CC66CC"
+    },
+    {
+      "question": "What is Java?",
+      "answers": [
+        "A programming language",
+        "A coffee shop",
+        "A dish",
+        "None of the above"
+      ],
+      "answer": "A programming language"
+    },
+    {
+      "question": "Is JavaScript basically Java?",
+      "answers": [
+        "Yes",
+        "Its literally Java 2.0",
+        "No, they are not the same!",
+        "Without a doubt"
+      ],
+      "answer": "No,they are not the same!"
+    },
+    {
+      "question": "How long has JavaScript been around for?",
+      "answers": ["30 years", "10 years", "8 years", "27 years"],
+      "answer": "27 years"
+    },
+    {
+      "question": "Python is a:",
+      "answers": ["Programming language", "Snake", "Dish", "Band"],
       "answer": "programming language"
+    },
+    {
+      "question": "What does JSE stand for?",
+      "answers": [
+        "JavaScript encapsulation",
+        "JavaScript enviorment",
+        "JavaScript engine",
+        "None of the above"
+      ],
+      "answer": "JavaScript engine"
+    },
+    {
+      "question": "What does NPM stand for?",
+      "answers": [
+        "No Private Module",
+        "No Package Module",
+        "Node Package Manger",
+        "None of the above"
+      ],
+      "answer": "Node Package Manger"
     }
   ],
   "tf-questions": [
