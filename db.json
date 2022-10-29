@@ -17,7 +17,7 @@
     },
     {
       "question": "What is the short hand hexadecimal for this hexadecimal color: #FFFFFF",
-      "answers": ["#F", "FF", "FFF", "None of the above"],
+      "answers": ["#F", "#FF", "#FFF", "None of the above"],
       "answer": "#FFF"
     },
     {
@@ -70,35 +70,35 @@
       "answers": [
         "No Private Module",
         "No Package Module",
-        "Node Package Manger",
+        "Node Package Manager",
         "None of the above"
       ],
-      "answer": "Node Package Manger"
+      "answer": "Node Package Manager"
     }
   ],
   "tf-questions": [
     {
-      "question": "The shift() in javascript removes the first element in the array",
+      "question": "In JavaScript shift() removes the first element in the array",
       "answers": ["true", "false"],
       "answer": "true"
     },
     {
-      "question": "The pop() in javascript removes the first element in the array",
+      "question": "In JavaScript pop() removes the first element in the array",
       "answers": ["true", "false"],
       "answer": "false"
     },
     {
-      "question": "The push() in javascript adds elements to the end of an array",
+      "question": "In JavaScript the push() adds elements to the end of an array",
       "answers": ["true", "false"],
       "answer": "true"
     },
     {
-      "question": "THe unshift() in javascript adds the element to the begining of the list",
+      "question": "In JavaScript unshift() adds the element to the beginning of the list",
       "answers": ["true", "false"],
       "answer": "true"
     },
     {
-      "question": "You get an error when accessing a out of bound index in javascript",
+      "question": "You get an error when accessing an out-of-bound index in javascript",
       "answers": ["true", "false"],
       "answer": "false"
     },
@@ -113,17 +113,17 @@
       "answer": "false"
     },
     {
-      "question": "You can't have classes in javascript",
+      "question": "Classes do not exist in JavaScript",
       "answers": ["true", "false"],
       "answer": "false"
     },
     {
-      "question": "Event listeners listen for a action only once",
+      "question": "Event listeners listen for action only once",
       "answers": ["true", "false"],
       "answer": "false"
     },
     {
-      "question": "DRY stands for 'do not repeat yourself'",
+      "question": "DRY stands for \"do not repeat yourself\"",
       "answers": ["true", "false"],
       "answer": "true"
     }
