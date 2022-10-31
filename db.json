@@ -33,7 +33,7 @@
         "A dish",
         "None of the above"
       ],
-      "answer": "A programming language"
+      "answer":  "A programming language"
     },
     {
       "question": "Is JavaScript basically Java?",
@@ -53,7 +53,7 @@
     {
       "question": "Python is a:",
       "answers": ["Programming language", "Snake", "Dish", "Band"],
-      "answer": "programming language"
+      "answer": "Programming language"
     },
     {
       "question": "What does JSE stand for?",
